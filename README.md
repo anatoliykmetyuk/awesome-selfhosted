@@ -1123,7 +1123,8 @@ _Related: [Note-taking & Editors](#note-taking--editors), [Wikis](#wikis), [Data
 - [Digimindmap](https://ladigitale.dev/digimindmap/#/) - Create simple mindmaps (documentation in French). ([Demo](https://ladigitale.dev/digimindmap/#/), [Source Code](https://codeberg.org/ladigitale/digimindmap)) `AGPL-3.0` `Nodejs/PHP`
 - [My Mind](https://github.com/ondras/my-mind) - Web application for creating and managing mind maps. ([Demo](https://my-mind.github.io/?url=examples%2Ffeatures.mymind)) `MIT` `Javascript`
 - [TeamMapper](https://github.com/b310-digital/teammapper) - Host and create your own mindmaps. Share your mindmap sessions with your team and collaborate live on mindmaps. ([Demo](https://map.kits.blog)) `MIT` `Docker/Nodejs`
-
+- [Anytype](https://anytype.io/) - privacy-friendly, end-to-end encrypted solution similar to Notion. ([Source Code](https://github.com/anyproto)) `Docker`
+- [SiYuan](https://b3log.org/siyuan/en/) - privacy-friendly, end-to-end encrypted solution similar to Notion. ([Source Code](https://github.com/siyuan-note/siyuan)) `Docker`
 
 ### Learning and Courses
 
